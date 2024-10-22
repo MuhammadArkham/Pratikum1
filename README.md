@@ -25,7 +25,7 @@ print("Bilangan terbesar: ", max_number)
 # Eksekusi program
 ![Foto](https://github.com/MuhammadArkham/Foto/blob/main/Screenshot%202024-10-22%20211528.png?raw=true)
 
-# Penjelasan program
+# Penjelasan kode program
 
 ```Python
 max_number = int(0)
