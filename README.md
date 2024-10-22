@@ -19,4 +19,9 @@ while True:
     if number > max_number:
         max_number = number
 
-print("Bilangan terbesar: ", max_number) 
+print("Bilangan terbesar: ", max_number)
+
+```
+# Eksekusi program
+![]
+
