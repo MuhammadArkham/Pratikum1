@@ -78,3 +78,5 @@ print("Bilangan terbesar: ", max_number)
 
 Menampilkan bilangan terbesar yang ditemukan setelah loop selesai
 
+# Gambar Flowchart
+![Foto](
