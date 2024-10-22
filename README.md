@@ -23,5 +23,5 @@ print("Bilangan terbesar: ", max_number)
 
 ```
 # Eksekusi program
-![]
+![Foto]
 
