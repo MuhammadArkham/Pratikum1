@@ -23,7 +23,7 @@ print("Bilangan terbesar: ", max_number)
 
 ```
 # Eksekusi program
-![Foto](https://github.com/MuhammadArkham/Foto/blob/main/Screenshot%202024-10-22%20211528.png?raw=true)
+![Foto](https://github.com/MuhammadArkham/Foto2/blob/main/Screenshot%202024-10-23%20074811.png?raw=true)
 
 # Penjelasan kode program
 
