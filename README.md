@@ -1,4 +1,4 @@
-# Praktikum3
+![image](https://github.com/user-attachments/assets/6c187c94-9aac-4b99-90c9-fa399f6b880e)# Praktikum3
 
 Muhammad Arkhamullah Rifai Asshidiq
 
@@ -79,4 +79,4 @@ print("Bilangan terbesar: ", max_number)
 Menampilkan bilangan terbesar yang ditemukan setelah loop selesai
 
 # Gambar Flowchart
-![Foto](https://github.com/MuhammadArkham/Foto2/blob/main/Screenshot%202024-10-23%20074811.png?raw=true)
+![Foto](https://github.com/MuhammadArkham/Foto/blob/main/flowchart%20(1).png?raw=true)
