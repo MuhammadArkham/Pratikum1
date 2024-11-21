@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/6c187c94-9aac-4b99-90c9-fa399f6b880e)# Praktikum3
-
 Muhammad Arkhamullah Rifai Asshidiq
 
 Bahasa pemrograman
